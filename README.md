@@ -1,4 +1,1 @@
-wxpython-learn
-==============
-
-wxpython learn 
+python practice demo code
